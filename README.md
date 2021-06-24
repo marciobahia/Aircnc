@@ -48,6 +48,9 @@ $ git clone https://github.com/marciobahia/aircnc.git && cd aircnc
 ```bash
 # Install the dependencies
 $ yarn
+
+**Dependencies**
+
     "axios": "^0.19.0",
     "expo": "^36.0.2",
     "react": "16.8.3",
