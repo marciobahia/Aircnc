@@ -100,8 +100,9 @@ $ yarn dev
 **Run the Frontend Server**
 $ yarn start
 
-**Run the Web Server**
+# Run the web server
 $ yarn start
+```
 
 
 Open the App Expo on your smartphone, scan the application's QR Code.
