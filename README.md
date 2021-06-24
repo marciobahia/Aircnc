@@ -51,6 +51,7 @@ $ git clone https://github.com/marciobahia/aircnc.git && cd aircnc
 
 $ npm install <package>@<version> 
 
+
 **Dependencies on Backend**
     cors": "^2.8.5
     express": "^4.17.1
@@ -59,7 +60,6 @@ $ npm install <package>@<version>
 
     devDependencies
     nodemon": "^1.19.3
-
 
 
 **Dependencies on Frontend**
@@ -75,9 +75,7 @@ $ npm install <package>@<version>
     socket.io-client": "^2.3.0
 
 
-
-
-**Dependencies on Mobile**
+    **Dependencies on Mobile**
     axios": "^0.19.0
     expo": "^36.0.2
     react": "16.8.3
