@@ -93,7 +93,7 @@ $ git clone https://github.com/marciobahia/aircnc.git && cd aircnc
 
 
     **Run the Backend Server**
-    $ yarn dev
+    $ yarn dev 
 
     **Run the Frontend Server**
     $ yarn start
