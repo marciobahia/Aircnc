@@ -49,18 +49,49 @@ $ git clone https://github.com/marciobahia/aircnc.git && cd aircnc
 # Install the dependencies
 $ yarn
 
-**Dependencies**
+**Dependencies on Backend**
+    cors": "^2.8.5
+    express": "^4.17.1
+    mongoose": "^5.7.3
+    multer": "^1.4.2
 
-    "axios": "^0.19.0",
-    "expo": "^36.0.2",
-    "react": "16.8.3",
-    "react-dom": "16.8.3",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
-    "react-native-gesture-handler": "~1.5.0",
-    "react-native-reanimated": "~1.4.0",
-    "react-native-web": "^0.11.7",
-    "react-navigation": "^4.0.10",
-    "socket.io-client": "^2.3.0"
+    devDependencies
+    nodemon": "^1.19.3
+
+
+
+**Dependencies on Frontend**
+
+    axios": "^0.19.0
+    expo": "^36.0.2
+    react": "16.8.3
+    react-dom": "16.8.3
+    react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz
+    react-native-gesture-handler": "~1.5.0
+    react-native-reanimated": "~1.4.0
+    react-native-web": "^0.11.7
+    react-navigation": "^4.0.10
+    socket.io-client": "^2.3.0
+
+
+
+
+**Dependencies on Mobile**
+
+    axios": "^0.19.0
+    expo": "^36.0.2
+    react": "16.8.3
+    react-dom": "16.8.3
+    react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz
+    react-native-gesture-handler": "~1.5.0
+    react-native-reanimated": "~1.4.0
+    react-native-web": "^0.11.7
+    react-navigation": "^4.0.10
+    socket.io-client": "^2.3.0
+  
+    devDependencies:
+    babel-preset-expo": "^7.0.0
+
 
 
 **Run the Backend server**
