@@ -37,7 +37,7 @@ This project was developed using cutting edge front-end technologies.
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/marciobahia/letmeask.git && cd letmeask
+$ git clone https://github.com/marciobahia/aircnc.git && cd aricnc
 ```
 
 **Follow the steps below**
@@ -45,6 +45,16 @@ $ git clone https://github.com/marciobahia/letmeask.git && cd letmeask
 ```bash
 # Install the dependencies
 $ yarn
+    "axios": "^0.19.0",
+    "expo": "^36.0.2",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
+    "react-native-gesture-handler": "~1.5.0",
+    "react-native-reanimated": "~1.4.0",
+    "react-native-web": "^0.11.7",
+    "react-navigation": "^4.0.10",
+    "socket.io-client": "^2.3.0"
 
 
 # Run the web server
