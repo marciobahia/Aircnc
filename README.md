@@ -9,7 +9,7 @@
 [![Stars](https://img.shields.io/github/stars/marciobahia/letmeask?color=835AFD&style=flat-square)](https://github.com/marciobahia/letmeask/stargazers)
 
 <h4 align="center">
-  Gameplay is a project where game lovers can schedule matches with other users
+ Aircnc is an Application focused Developers. The system allows the user to sign up with email and which technology is of interest to them. After logging in he will be shown to the companies registered in the system that work with the technology of interest and how much they charge per day can then reserve a day for use of the site
 </h4>
 
 ![Let Me Ask preview]
