@@ -15,7 +15,7 @@
 ![Let Me Ask preview]
 
 
-<img src="https://github.com/marciobahia/Gameplay/blob/master/assets/preview.jpg" width="300" >
+<img src="https://github.com/marciobahia/Aircnc/blob/master/AircncFrontend.png" width="300" >
 
 
 ## Tecnologies
