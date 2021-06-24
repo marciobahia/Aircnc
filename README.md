@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/marciobahia/Gameplay/blob/master/assets/icon.png" width="200" >
+  <img src="https://github.com/marciobahia/Aircnc/blob/master/logo%403x.png" width="200" >
 </div>
 
 ## Let Me Ask
