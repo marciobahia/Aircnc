@@ -20,7 +20,7 @@
 
 ## Tecnologies
 
-This project was developed using cutting edge front-end technologies.
+This project was developed using the following technologies:
 
 
 - [React Native](https://reactnative.dev)
