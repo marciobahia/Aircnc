@@ -73,5 +73,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Made with 💜 by Marcio Bahia 👋 [Check out my LinkedIn](https://www.linkedin.com/in/márcio-sella-bahia-9b73bb19b/)
-# Aircnc
-Application focused Developers. The system allows the user to sign up with email and which technology is of interest to them. After logging in he will be shown to the companies registered in the system that work with the technology of interest and how much they charge per day can then reserve a day for use of the site.
+
