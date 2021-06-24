@@ -47,9 +47,9 @@ $ git clone https://github.com/marciobahia/aircnc.git && cd aircnc
 
 ```bash
 
-**Install the dependencies**
+    **Install the dependencies**
 
-$ npm install <package>@<version> 
+    $ npm install <package>@<version> 
 
 
     **Dependencies on Backend**
@@ -92,14 +92,14 @@ $ npm install <package>@<version>
 
 
 
-**Run the Backend Server**
-$ yarn dev
+    **Run the Backend Server**
+    $ yarn dev
 
-**Run the Frontend Server**
-$ yarn start
+    **Run the Frontend Server**
+    $ yarn start
 
-# Run the web server
-$ yarn start
+    # Run the web server
+    $ yarn start
 ```
 
 
