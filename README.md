@@ -23,9 +23,12 @@
 This project was developed using cutting edge front-end technologies.
 
 
-- [React Native](https://reactjs.org/)
+- [React Native](https://reactnative.dev)
+- [ReactJs](https://reactjs.org/)
 - [Expo](https://expo.io)
-- [Babel](https://babeljs.io/docs/en/)
+- [Axios](https://github.com/axios/axios)
+- [NodeJs](https://nodejs.org/en/download/)
+
 
 
 ## 💻 Getting started
@@ -37,7 +40,7 @@ This project was developed using cutting edge front-end technologies.
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/marciobahia/aircnc.git && cd aricnc
+$ git clone https://github.com/marciobahia/aircnc.git && cd aircnc
 ```
 
 **Follow the steps below**
