@@ -62,7 +62,6 @@ $ npm install <package>@<version>
 
 
 **Dependencies on Frontend**
-
     axios": "^0.19.0
     expo": "^36.0.2
     react": "16.8.3
@@ -78,7 +77,6 @@ $ npm install <package>@<version>
 
 
 **Dependencies on Mobile**
-
     axios": "^0.19.0
     expo": "^36.0.2
     react": "16.8.3
