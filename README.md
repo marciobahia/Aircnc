@@ -46,8 +46,9 @@ $ git clone https://github.com/marciobahia/aircnc.git && cd aircnc
 **Follow the steps below**
 
 ```bash
-# Install the dependencies
-$ yarn
+
+**Install the dependencies**
+$ npm install <package>@<version> 
 
 **Dependencies on Backend**
     cors": "^2.8.5
