@@ -111,5 +111,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💜 by Marcio Bahia 👋 [Check out my LinkedIn](https://www.linkedin.com/in/márcio-sella-bahia-9b73bb19b/)
-
+[![Instagram Badge](https://img.shields.io/badge/-@marciobahia-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/marciobahia/)](https://www.instagram.com/bahiainspetor/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Marcio%20Sella%20Bahia-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcio-gon%C3%A7sella-bahia/)](https://www.linkedin.com/in/márcio-sella-bahia-9b73bb19b/) 
