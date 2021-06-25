@@ -58,7 +58,7 @@ $ git clone https://github.com/marciobahia/aircnc.git && cd aircnc
     $ yarn dev 
 
 
-    **Run the Fronend application **
+    **Run the Frotend application **
     $ cd aircnc/frontend
     $ yarn start
     
